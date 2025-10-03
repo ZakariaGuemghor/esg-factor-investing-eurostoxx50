@@ -33,7 +33,7 @@ La deuxième étape est consacrée à la création d'un facteur synthétique qui
 #### 3. Modélisation Économétrique
 La troisième étape consiste à évaluer le pouvoir explicatif du facteur social. Pour chaque action de l'univers d'analyse, un modèle de régression à quatre facteurs est appliqué :
 $$
-R_i - R_f = \alpha_i + \beta_{i,Mkt}(R_m - R_f) + \beta_{i,SMB} \cdot SMB + \beta_{i,HML} \cdot HML + \beta_{i,ESG} \cdot \text{ScoreESG}_i
+R_i - R_f = \alpha_i + \beta_{i,Mkt}(R_m - R_f) + \beta_{i,SMB} \cdot SMB + \beta_{i,HML} \cdot HML + \beta_{i,ESG} \cdot \mathrm{ScoreESG}_i
 $$
 Deux méthodes statistiques sont utilisées pour garantir la robustesse des résultats : une régression par les Moindres Carrés Généralisés (GLS) et une régression par les Moindres Carrés Ordinaires (OLS) avec des erreurs standard robustes à l'hétéroscédasticité et à l'autocorrélation (HAC - Newey-West).
 
