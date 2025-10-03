@@ -1,3 +1,5 @@
+![Image de couverture du projet](images/image_couverture.png)
+
 # Analyse de l'Impact du Facteur Social ESG sur le Rendement des Actions de l'EURO STOXX 50
 
 ## Introduction
