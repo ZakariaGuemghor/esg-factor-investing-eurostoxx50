@@ -8,6 +8,10 @@ L'intégration des critères Environnementaux, Sociaux et de Gouvernance (ESG) d
 
 L'objectif principal de ce travail est de dépasser la simple corrélation en construisant un cadre méthodologique rigoureux inspiré des modèles factoriels académiques, notamment celui de Fama et French. L'hypothèse centrale est que le facteur Social, s'il est pertinent, devrait non seulement générer une performance anormale (alpha), mais aussi démontrer une sensibilité (bêta) statistiquement significative après avoir contrôlé pour les facteurs de risque traditionnels (marché, taille, valeur). Le projet propose donc de construire un facteur "Social" synthétique et de l'intégrer dans un modèle à quatre facteurs pour tester sa pertinence économétrique sur le marché européen.
 
+**➡️ [Voir le Notebook : `fama_french_esg_social_analysis.ipynb`](./fama_french_esg_social_analysis.ipynb)**
+
+---
+
 ## Objectif du Projet
 
 Ce projet, intitulé *"Analyse de l'Impact du Facteur Social ESG sur le Rendement des Actions de l'EURO STOXX 50"*, a pour objectif principal d'isoler et de quantifier la contribution du pilier social des critères ESG à la performance des actions européennes de premier plan. Plutôt que de traiter l'ESG comme un bloc monolithique, nous cherchons à déterminer si une stratégie d'investissement systématique basée uniquement sur le critère social peut générer des rendements anormaux.
